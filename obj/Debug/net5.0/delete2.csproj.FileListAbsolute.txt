@@ -1,0 +1,16 @@
+C:\Users\brk\delete\delete2\bin\Debug\net5.0\delete2.exe
+C:\Users\brk\delete\delete2\bin\Debug\net5.0\delete2.deps.json
+C:\Users\brk\delete\delete2\bin\Debug\net5.0\delete2.runtimeconfig.json
+C:\Users\brk\delete\delete2\bin\Debug\net5.0\delete2.runtimeconfig.dev.json
+C:\Users\brk\delete\delete2\bin\Debug\net5.0\delete2.dll
+C:\Users\brk\delete\delete2\bin\Debug\net5.0\ref\delete2.dll
+C:\Users\brk\delete\delete2\bin\Debug\net5.0\delete2.pdb
+C:\Users\brk\delete\delete2\obj\Debug\net5.0\delete2.csproj.AssemblyReference.cache
+C:\Users\brk\delete\delete2\obj\Debug\net5.0\delete2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brk\delete\delete2\obj\Debug\net5.0\delete2.AssemblyInfoInputs.cache
+C:\Users\brk\delete\delete2\obj\Debug\net5.0\delete2.AssemblyInfo.cs
+C:\Users\brk\delete\delete2\obj\Debug\net5.0\delete2.csproj.CoreCompileInputs.cache
+C:\Users\brk\delete\delete2\obj\Debug\net5.0\delete2.dll
+C:\Users\brk\delete\delete2\obj\Debug\net5.0\ref\delete2.dll
+C:\Users\brk\delete\delete2\obj\Debug\net5.0\delete2.pdb
+C:\Users\brk\delete\delete2\obj\Debug\net5.0\delete2.genruntimeconfig.cache
